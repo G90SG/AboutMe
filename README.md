@@ -1,0 +1,1 @@
+Creating a 3 page website using HTML and CSS. 
