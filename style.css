@@ -61,11 +61,14 @@ p1{
 .social-wrapper{
   margin:0px;
   padding: 35px;
-  background: #4abdac;  
+  background: #4abdac; 
 }
+
 .social-media-links { 
   display: flex;
+  background: #4abdac; 
   justify-content: space-evenly
+
 }
 .social-media-links a{ 
   display: flex;
@@ -73,7 +76,10 @@ p1{
   text-decoration:none;
   font-weight: lighter;
   font-size:15px;
+  padding: 35px;
   font-family: monospace;
+} 
+
 } 
 
 
